@@ -55,7 +55,7 @@ Full dissection of lower-layer and host configuration protocols
 ## Tools & Technologies
 - **Cisco Packet Tracer 8.x** · **GNS3**  
 - **Wireshark 4.x** (Statistics, TCP Stream Graphs, IO Graphs)  
-- **Windows 11 + WSL2 (Ubuntu)**  
+- **Windows Server 10 + WSL2 (Ubuntu)**  
 - **Linux networking tools** (`ip`, `ss`, `tcpdump`)  
 - **Cisco IOS configuration** (OSPF, eBGP, redistribution, route-maps)
 
