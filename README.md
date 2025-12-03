@@ -89,11 +89,9 @@ Every configuration, capture, and analysis here has been used (or directly inspi
 
 ## Contact
 **Ali Bagheri**  
-ICT Specialist 
 - LinkedIn: [linkedin.com/in/aibgr](https://www.linkedin.com/in/aibgr)  
-- Email: ali.bagheri@un.org  
 
-> Open to collaboration on enterprise network design, security auditing, traffic forensics, and performance optimization projects.
+> Open to collaboration on enterprise network design, distributed systems, traffic forensics, and performance optimization projects.
 
 ---
 *Last updated: December 02, 2025*
