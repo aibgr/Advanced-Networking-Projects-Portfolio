@@ -1,5 +1,5 @@
 # Advanced Networking Projects Portfolio  
-**Ali Bagheri** · UN ICT Specialist
+**Ali Bagheri** · UN Intern
 
 [![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)](#)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)](#)
